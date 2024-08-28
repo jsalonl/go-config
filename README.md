@@ -21,7 +21,7 @@ including YAML and JSON. It supports environment variable substitution within th
 To install `GoConfig`, use `go get`:
 
 ```sh
-go get github.com/jsalonl/go_config
+go get github.com/jsalonl/go-config
 ```
 
 ## Usage GoConfig
