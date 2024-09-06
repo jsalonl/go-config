@@ -1,4 +1,4 @@
-module github.com/jsalonl/go-config
+module github.com/jsalonl/go-config/v2
 
 go 1.23
 
