@@ -5,8 +5,4 @@ repos:
       - id: go-fmt
       - id: go-imports
       - id: go-cyclo
-<<<<<<< HEAD
         args: [ -over=15 ]
-=======
-        args: [ -over=15 ]
->>>>>>> 9754732 (feat: Update to V2)
